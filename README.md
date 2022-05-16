@@ -2,7 +2,7 @@
 
 # FOxRUM
 
-Real time forum project.
+Real time forum project - optional task "typing in progress"
 
 ## Project setup
 
@@ -22,7 +22,11 @@ cd ./server
 
 - When both servers are up and running, you can interact with forum here -> [http://localhost:8080](http://localhost:8080/login)
 
-- Check out [Audit questions](https://github.com/01-edu/public/tree/master/subjects/real-time-forum/audit)
+- Check out [Audit questions](https://github.com/01-edu/public/blob/master/subjects/real-time-forum/typing-in-progress/audit.md)
+
+- You can create new profiles or use these -> Username: `ChattyFox` Password: `weakpassword` and Username: `Shadow` Password: `weakpassword` 
+
+- After starting the servers and logging in just travel to chat sectian and find user you want to chat with!
 
 ## Install
 
