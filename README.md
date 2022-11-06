@@ -1,8 +1,7 @@
 [//]: # "Do Ctrl + Shift + V for a better viewing experience"
 
 # FOxRUM
-
-Real time forum project - optional task "typing in progress"
+Real time forum project. 
 
 ## Project setup
 
