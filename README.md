@@ -4,7 +4,7 @@
 Real time forum project. 
 ![fox-welcome](https://user-images.githubusercontent.com/79696183/200189627-ecb9db5e-c78c-43d8-ad8f-2fb34b97bd75.png)
 
-## Project setup![Uploading fox-welcome.png…]()
+## Project setup
 
 
 - Make sure when installing dependencies / starting servers, to be in the right folder!
@@ -22,8 +22,6 @@ cd ./server
 ```
 
 - When both servers are up and running, you can interact with forum here -> [http://localhost:8080](http://localhost:8080/login)
-
-- Check out [Audit questions](https://github.com/01-edu/public/blob/master/subjects/real-time-forum/typing-in-progress/audit.md)
 
 - You can create new profiles or use these -> Username: `ChattyFox` Password: `weakpassword` and Username: `Shadow` Password: `weakpassword` 
 
@@ -58,6 +56,8 @@ go run .
 - [Presisting state with pinia plugin](https://github.com/prazdevs/pinia-plugin-persistedstate)
 - [Icons from fontawesome](https://fontawesome.com/icons)
 - Artwork by Me :)
+
+
 ![fox-relax_dark](https://user-images.githubusercontent.com/79696183/200189638-affa7ec4-9616-4620-9942-758e8d6b7eb3.png)
 
 ## Author
